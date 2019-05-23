@@ -87,7 +87,7 @@ print_manage_menu( 'manage_proj_page.php' );
 	<div class="widget-header widget-header-small">
 		<h4 class="widget-title lighter">
 			<i class="ace-icon fa fa-puzzle-piece"></i>
-			<?php echo lang_get( 'projects_title' ) ?>
+			Procesos
 		</h4>
 	</div>
 	<div class="widget-body">
